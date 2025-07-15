@@ -22,35 +22,35 @@ h1,h2,h3,h4,h5,span{   font-family: "Libertinus Mono", monospace;}
 a{text-decoration: none;}
 
 .banner a{color:white}
-.banner .col-3{background-color:var(--theme2) ;padding:80px 0px; color: white;
+.banner .one{background-color:var(--theme2) ;padding:80px 0px; color: white;
 text-align: center;}
 .layer{padding: 120px 0px; background-color:rgba(57, 48, 44, 0.8);}
 
-#aboutbanner .col-9{background-image: url(../assets/more/booking.jpg); background-size: 100%; 
+#aboutbanner .two{background-image: url(../assets/more/booking.jpg); background-size: cover; 
 background-position: center;}
 
-#hairbanner .col-9{background-image: url(../assets/more/hydration.jpg); background-size: 100%; 
+#hairbanner .two{background-image: url(../assets/more/hydration.jpg); background-size: cover; 
 background-position: center;}
 
-#skinbanner .col-9{background-image: url(../assets/more/aging.jpg); background-size: 100%; 
+#skinbanner .two{background-image: url(../assets/more/aging.jpg); background-size: cover; 
 background-position: center;}
 
-#makeupbanner .col-9{background-image: url(../assets/more/photoshoot-9175218_1280.png); background-size: 100%; 
+#makeupbanner .two{background-image: url(../assets/more/photoshoot-9175218_1280.png); background-size: cover; 
 background-position: center;}
 
-#manicurebanner .col-9{background-image: url(../assets/more/hands-1327811_1280.jpg); background-size: 100%; 
+#manicurebanner .two{background-image: url(../assets/more/hands-1327811_1280.jpg); background-size: cover; 
 background-position: center;}
 
-#teambanner .col-9{background-image: url(../assets/more/nine.jpg); background-size: 100%; 
+#teambanner .two{background-image: url(../assets/more/nine.jpg); background-size: cover; 
 background-position: center;}
 
-#contactbanner .col-9{background-image: url(../assets/more/contact.jpg); background-size: 100%;
+#contactbanner .two{background-image: url(../assets/more/contact.jpg); background-size: cover;
 background-position: center;}
 
-#bookbanner .col-9{background-image: url(../assets/more/call-center-3614380_1280.jpg); background-size: 100%;
+#bookbanner .two{background-image: url(../assets/more/call-center-3614380_1280.jpg); background-size: cover;
 background-position: center;}
 
-#servicesbanner .col-9{background-image: url(../assets/more/woman-3299379_1280.jpg); background-size: 100%;
+#servicesbanner .two{background-image: url(../assets/more/woman-3299379_1280.jpg); background-size: cover;
 background-position: center;}
 
 .dot-pic{
